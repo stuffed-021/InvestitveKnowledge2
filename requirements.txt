@@ -6,3 +6,4 @@ requests
 beautifulsoup4
 groq
 supabase
+streamlit==1.36.0
